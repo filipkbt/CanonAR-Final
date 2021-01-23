@@ -1,0 +1,4 @@
+sceneSetups:
+- path: Assets/Scenes/CanonAR Final.unity
+  isLoaded: 1
+  isActive: 1
